@@ -6,6 +6,6 @@
 int main(){
   printf("gcd =%d\n", gcd(5,7));
   printf("doble =%d\n", doble(7));
-  printf("factorial =%d\n", factorial(4));
+  printf("factorial =%d\n", factorial(7));
   return 0;
 }

@@ -1,0 +1,3 @@
+Descargar y compilar y ejecutar prolog 
+1- sudo apt-get install swi-prolog
+2-swipl -f <nombreprograma>.pl

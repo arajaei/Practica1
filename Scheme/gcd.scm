@@ -6,4 +6,4 @@
            ((> a b) (gcd (- a b) b))
            (else (gcd (- b a) a)))))
        
-(print (eval (gcd 5 7)))
+;(print (eval (gcd 5 7)))
